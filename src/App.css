@@ -3,4 +3,5 @@
 body {
   font-family: "Red Hat Text", serif;
   font-optical-sizing: auto;
+  line-height: 1.5;
 }
